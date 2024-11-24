@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **New Creative Ideas or real world problems**
 
-- 📫 How to reach me **amitkumarraikwar92@gmail.com**
+- 📫 How to reach me **amitkumarraikwar92+github@gmail.com**
 
 - ⚡ Fun fact **I think i am creative person and working on real world problems.**
 
