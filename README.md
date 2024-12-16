@@ -59,8 +59,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/amitkumarraikwar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amitkumarraikwar" /></a><a href="https://ko-fi.com/amitkumarraikwar"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="amitkumarraikwar" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princekashyap2024&show_icons=true&locale=en&layout=compact" alt="princekashyap2024" /></p>
-
 ## Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="snake/github-dark.svg" />
