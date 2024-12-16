@@ -64,3 +64,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princekashyap2024&show_icons=true&locale=en" alt="princekashyap2024" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princekashyap2024&" alt="princekashyap2024" /></p>
+
+## Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="snake/github-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="snake/github-light.svg" />
+  <img alt="github-snake" src="snake/github-light.svg" />
+</picture>
